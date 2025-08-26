@@ -20,7 +20,7 @@
 
 [youtube]: https://www.youtube.com/c/tk.tamer14
 [instagram]: https://www.instagram.com/tk.tamer14
-[linkedin]: https://linkedin.com/in/TamerMarshiqe
+[linkedin]: https://linkedin.com/in/tamer-marshiqe
 
 <!--
 **tmarshiqe14/tmarshiqe14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
