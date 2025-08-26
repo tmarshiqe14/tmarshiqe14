@@ -18,7 +18,7 @@
 [<img align="left" alt="tk.tamer14 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[youtube]: [https://www.youtube.com/@tk.tamer14
+[youtube]: https://www.youtube.com/@tk.tamer14
 [instagram]: https://www.instagram.com/tk.tamer14
 [linkedin]: https://www.linkedin.com/in/tamer-marshiqe-1345b2300
 
