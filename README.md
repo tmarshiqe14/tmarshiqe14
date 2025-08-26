@@ -18,9 +18,9 @@
 [<img align="left" alt="tk.tamer14 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[youtube]: [[https://www.youtube.com/c/tk.tamer14]](https://www.youtube.com/@tk.tamer14)
-[instagram]: [[https://www.instagram.com/tk.tamer14]](https://www.instagram.com/tk.tamer14/)
-[linkedin]: [[https://linkedin.com/in/TamerMarshiqe]](https://www.linkedin.com/in/tamer-marshiqe-1345b2300/)
+[youtube][[https://www.youtube.com/c/tk.tamer14]](https://www.youtube.com/@tk.tamer14)
+[instagram][[https://www.instagram.com/tk.tamer14]](https://www.instagram.com/tk.tamer14/)
+[linkedin][[https://linkedin.com/in/TamerMarshiqe]](https://www.linkedin.com/in/tamer-marshiqe-1345b2300/)
 
 <!--
 **tmarshiqe14/tmarshiqe14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
