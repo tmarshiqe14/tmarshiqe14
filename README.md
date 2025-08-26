@@ -14,14 +14,13 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="tk.tamer14 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="tk.tamer14 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Tamer Marshiqe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="tk.tamer14 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/tk.tamer14
-[youtube]: https://www.youtube.com/c/tk.tamer14
-[instagram]: https://www.instagram.com/tk.tamer14
-[linkedin]: https://linkedin.com/in/TamerMarshiqe
+
+[youtube]: [https://www.youtube.com/c/tk.tamer14](https://www.youtube.com/channel/UC6WtUovojh9nMzvIrbrbyjw)
+[instagram]: [https://www.instagram.com/tk.tamer14](https://www.instagram.com/tk.tamer14/)
+[linkedin]: [https://linkedin.com/in/TamerMarshiqe](https://www.linkedin.com/in/tamer-marshiqe-1345b2300/)
 
 <!--
 **tmarshiqe14/tmarshiqe14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
